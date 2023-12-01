@@ -1,0 +1,23 @@
+
+
+.single-post-card{
+    border: 1px solid gray;
+    border-radius: 5px;
+    padding: 15px;
+    font-size: 18px;
+    font-family: sans-serif;
+    background:#78a9db;
+    color: rgb(230, 230, 230);
+    height: 300px;
+    transition: .3s;
+    cursor: pointer;
+}
+
+.single-post-card h4 span{
+    color: whitesmoke;
+}
+
+.single-post-card h4{
+    margin-block: 13px;
+    color: #294766;
+}
